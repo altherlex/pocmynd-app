@@ -8,3 +8,8 @@
 * Use Tooltip hovering the Table - import { Popover, Whisper } from 'rsuite';
 * Investigate Toaster/Snacks - import { Notification, toaster } from 'rsuite';
 * Create "open cell" component for the Table
+* Wrong date - Use moment.js
+
+Link utils
+
+* https://www.freecodecamp.org/news/pass-data-between-components-in-react/
