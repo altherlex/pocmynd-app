@@ -1,5 +1,7 @@
 # POC single-page app using React + Rsuite
 
+live https://pocmynd-app.vercel.app/
+
 ### TODO
 * Use tags on the Table
 * Open a model from the drawer with user's detail
