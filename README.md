@@ -1,6 +1,8 @@
 # POC single-page app using React + Rsuite
 
-live https://pocmynd-app.vercel.app/
+![Vercel](https://vercelbadge.vercel.app/api/altherlex/pocmynd-app)
+
+live https://pocmynd-app.vercel.app/ or https://pocmynd-app-git-master-altherlex.vercel.app/
 
 ### TODO
 * Use tags on the Table
